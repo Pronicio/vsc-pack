@@ -3,9 +3,9 @@
   "displayName": "Pronicio Extension Pack",
   "description": "Toutes les extensions que j'utilise.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icon": "icon.png",
-  "publisher": "pronicio",
+  "publisher": "Pronicio",
   "keywords": [
       "pronicio pack",
       "pronicio"
@@ -39,6 +39,11 @@
       "octref.vetur",
       "VisualStudioExptTeam.vscodeintellicode",
       "WakaTime.vscode-wakatime",
-      "redhat.vscode-yaml"
+      "redhat.vscode-yaml",
+      "CoenraadS.bracket-pair-colorizer",
+      "naumovs.color-highlight",
+      "mikestead.dotenv",
+      "ecmel.vscode-html-css",
+      "chrmarti.regex"
   ]
 }

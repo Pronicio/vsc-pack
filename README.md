@@ -22,6 +22,11 @@ Here is my extension pack that I use on a daily basis.
 - [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [📦 WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 - [📦 YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- [📦 Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [📦 Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [📦 DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [📦 HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+- [📦 Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 
 ## License :
 
