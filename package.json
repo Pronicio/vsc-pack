@@ -1,0 +1,44 @@
+{
+  "name": "pronicio-pack",
+  "displayName": "Pronicio Extension Pack",
+  "description": "Toutes les extensions que j'utilise.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "publisher": "pronicio",
+  "keywords": [
+      "pronicio pack",
+      "pronicio"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Pronicio/vsc-pack"
+  },
+  "homepage": "https://github.com/Pronicio/vsc-pack",
+  "engines": {
+      "vscode": "^1.60.0"
+  },
+  "categories": [
+      "Extension Packs"
+  ],
+  "extensionPack": [
+      "piotrpalarz.vscode-gitignore-generator",
+      "aaron-bond.better-comments",
+      "icrawl.discord-vscode",
+      "usernamehw.errorlens",
+      "dbaeumer.vscode-eslint",
+      "MS-CEINTL.vscode-language-pack-fr",
+      "abusaidm.html-snippets",
+      "MS-vsliveshare.vsliveshare",
+      "PKief.material-icon-theme",
+      "eg2.vscode-npm-script",
+      "esbenp.prettier-vscode",
+      "rangav.vscode-thunder-client",
+      "wayou.vscode-todo-highlight",
+      "ChakrounAnas.turbo-console-log",
+      "octref.vetur",
+      "VisualStudioExptTeam.vscodeintellicode",
+      "WakaTime.vscode-wakatime",
+      "redhat.vscode-yaml"
+  ]
+}

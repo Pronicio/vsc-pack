@@ -1,0 +1,2 @@
+# PackVSC
+ 🍀 VSC extension pack.
