@@ -1,6 +1,6 @@
 # 🍀 My VSC extension pack.
 
-In the `./vsc` folder is my visual studio code extension pack  that I use on a daily basis.
+In the `./vsc` folder is my visual studio code extension pack  that I use on a daily basis.  
 In the `./idea` folder are all my extensions and keyboard shortcuts.
 
 ## Extensions of the pack :
