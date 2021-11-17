@@ -1,0 +1,13 @@
+Dart
+com.almightyalpaca.intellij.plugins.discord
+com.intellij.tailwindcss
+com.jetbrains.lang.ejs
+com.mallowigi
+com.mallowigi.idea
+com.markskelton.one-dark-theme
+com.wakatime.intellij.plugin
+intellij.prettierJS
+io.flutter
+izhangzhihao.rainbow.brackets
+org.jetbrains.kotlin
+org.jetbrains.plugins.vue
