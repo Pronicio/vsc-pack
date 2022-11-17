@@ -1,13 +1,26 @@
+Batch Scripts Support
 Dart
+com.1v0.dev.hugo-intellij-plugin
 com.almightyalpaca.intellij.plugins.discord
+com.intellij.lang.jsgraphql
+com.intellij.nativeDebug
 com.intellij.tailwindcss
 com.jetbrains.lang.ejs
 com.mallowigi
-com.mallowigi.idea
 com.markskelton.one-dark-theme
+com.mintlify.document
+com.nekofar.milad.intellij.nuxtjs
 com.wakatime.intellij.plugin
+fr.gabrielcolson.prisma.prisma-intellij-plugin
 intellij.prettierJS
 io.flutter
 izhangzhihao.rainbow.brackets
+org.exbin.deltahex.intellij
+org.igu.plugins.consolelog
 org.jetbrains.kotlin
+org.jetbrains.plugins.go
 org.jetbrains.plugins.vue
+org.rust.lang
+ru.adelf.idea.dotenv
+tv.twelvetone.intellij.plugins.intellivue
+white-sand-ui
